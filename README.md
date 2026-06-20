@@ -1,5 +1,5 @@
 # how-to-create-and-customize-connectors-in-the-react-diagram-component
-A quick-start React app that shows how to create and customize connectors in the React Diagram Component. It explains how to customize connector types,connector decorator types, edit and remove connectors and draw connector using drawing tool.
+A quick-start React app that shows how to create and customize connectors in the [React Diagram](https://www.syncfusion.com/react-components/react-diagram) Component. It explains how to customize connector types,connector decorator types, edit and remove connectors and draw connector using drawing tool.
 
 Refer to the following documentation to learn about the React Diagram Component: 
 https://ej2.syncfusion.com/react/documentation/diagram/connectors
